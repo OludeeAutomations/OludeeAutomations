@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Daniel Oludare 👋
 
-<!--
-**OludeeAutomations/OludeeAutomations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Automation Expert passionate about building low-code and no-code solutions using tools like n8n, Airtable, OpenRouter, and custom Python workflows.
 
-Here are some ideas to get you started:
+### 🚀 Projects I'm Working On
+- ERP automations using n8n and AI
+- Financial anomaly detection pipelines
+- WooCommerce & Shopify integrations
+- Real-world automations with Airtable, webhooks, and APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools I Use
+- n8n, Make, Zapier
+- Python, OpenAI, OpenRouter
+- Airtable, Google Sheets, APIs
+
+### 📂 Selected Work
+- [n8n-automations](https://github.com/YOUR_USERNAME/n8n-automations)
+- [Portfolio Website](https://oludee.framer.website)
+
+---
+
+*Let’s build smarter, faster, automated systems together.*
